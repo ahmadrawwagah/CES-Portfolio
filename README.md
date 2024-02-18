@@ -24,3 +24,7 @@ saw the quote.
 Below Is a video I took of my project. You can see the text scrolling by with different colors and overlapping each other.
 
 https://github.com/ahmadrawwagah/ahmadrawwagah.github.io/assets/96959925/e66dbf65-9ba1-4def-88ea-7c499086ad66
+
+
+# Code
+[Here](https://github.com/ahmadrawwagah/Ahmad_Scroll) is the link to my code and technical documentation.
