@@ -21,9 +21,7 @@ The limited battery size meant I needed to come up with a way to limit my power 
 I also struggled to find inspiration for what to do for my project. I only came up with the idea while I was scrolling on Twitter and 
 saw the quote.
 # Video
-Below Is a video I took of my project. You can see the text scrolling by with different colors and overlapping each other.
-
-https://github.com/ahmadrawwagah/ahmadrawwagah.github.io/assets/96959925/e66dbf65-9ba1-4def-88ea-7c499086ad66
+[Here](https://youtube.com/shorts/sWXqJz0Kr38?feature=share) Is a video I took of my project. You can see the text scrolling by with different colors and overlapping each other.
 
 
 # Code
