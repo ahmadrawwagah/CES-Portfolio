@@ -21,8 +21,22 @@ The limited battery size meant I needed to come up with a way to limit my power 
 I also struggled to find inspiration for what to do for my project. I only came up with the idea while I was scrolling on Twitter and 
 saw the quote.
 # Video
-[Here](https://youtube.com/shorts/sWXqJz0Kr38?feature=share) Is a video I took of my project. You can see the text scrolling by with different colors and overlapping each other.
+[Here](https://youtube.com/shorts/sWXqJz0Kr38?feature=share) This Is a video I took of my project. You can see the text scrolling by with different colors and overlapping each other.
 
+
+# Code
+[Here](https://github.com/ahmadrawwagah/Ahmad_Scroll/tree/master) is the link to my code and technical documentation.
+
+# ESPotify
+I created a device that allows me to adjust my Spotify settings without touching my computer.
+
+# Artistic Vision
+I am very fond of old stereo and hi-fi equipment. I love using the tactile switches and dials to adjust settings. I am also fond of convenience which causes me to listen to Spotify more than my records and other physical media. The vision of this project was to combine both the tactile nature of stereo equipment with the convenience of Spotify. I did this by making physical ways to interact with Spotify. Ideally, this project would have been housed in something that would fit visually with the rest of my stereo equipment.
+
+# Challenges
+I faced many challenges while creating this project. I initially struggled to get the button wired up correctly. I ended up solving this problem by isolating the individual problems with the wiring by first figuring out how to wire the button for data and then wiring it for lights as well. I then had to figure out how to interact with Spotify and I subsequently found the spotiPY api. I faced challenges when it came to reading data from the potentiometer and the button at the same time. I partially solved this by adding a delay which helped with the potentiometer, but it also made the button flaky. Also, there is a delay between adjusting the volume or skipping the track because the API call to Spotify is a bit slow depending on the speed of the internet that the computer is connected to.
+# Video
+[Here](https://youtube.com/shorts/sWXqJz0Kr38?feature=share) This Is a video I took of my project. You can see the volume changing as I turn the knob and the track skipping when I press the button.
 
 # Code
 [Here](https://github.com/ahmadrawwagah/Ahmad_Scroll/tree/master) is the link to my code and technical documentation.
