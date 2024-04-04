@@ -36,7 +36,7 @@ I am very fond of old stereo and hi-fi equipment. I love using the tactile switc
 # Challenges
 I faced many challenges while creating this project. I initially struggled to get the button wired up correctly. I ended up solving this problem by isolating the individual problems with the wiring by first figuring out how to wire the button for data and then wiring it for lights as well. I then had to figure out how to interact with Spotify and I subsequently found the spotiPY api. I faced challenges when it came to reading data from the potentiometer and the button at the same time. I partially solved this by adding a delay which helped with the potentiometer, but it also made the button flaky. Also, there is a delay between adjusting the volume or skipping the track because the API call to Spotify is a bit slow depending on the speed of the internet that the computer is connected to.
 # Video
-[Here](https://youtube.com/shorts/sWXqJz0Kr38?feature=share) This Is a video I took of my project. You can see the volume changing as I turn the knob and the track skipping when I press the button.
+[Here](https://youtube.com/shorts/TaB9tKiJrI?feature=share) This Is a video I took of my project. You can see the volume changing as I turn the knob and the track skipping when I press the button.
 
 # Code
 [Here](https://github.com/ahmadrawwagah/Ahmad_Scroll/tree/master) is the link to my code and technical documentation.
