@@ -39,4 +39,4 @@ I faced many challenges while creating this project. I initially struggled to ge
 [Here](https://youtube.com/shorts/TaB9tKiJ_rI?feature=share) This Is a video I took of my project. You can see the volume changing as I turn the knob and the track skipping when I press the button.
 
 # Code
-[Here](https://github.com/ahmadrawwagah/Ahmad_Scroll/tree/master) is the link to my code and technical documentation.
+[Here](https://github.com/ahmadrawwagah/Module-2/tree/main) is the link to my code and technical documentation.
